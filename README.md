@@ -6,7 +6,7 @@ TEAM ID : xxxxxx
 
 ## 👨‍👩‍👦TEAM MEMBERS
  - Shriprasanna B
- - Kirankumar K
+ - Kiran kumar K
  - Praveen N
  - Ram Sanjay S
 
