@@ -22,10 +22,10 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 ## 📖Goal:
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-## ⚓Technical Architecture:
+## 👨‍💻Technical Architecture:
 ![download](https://user-images.githubusercontent.com/92677078/190690057-16763bfc-b141-4e2a-a17f-97031ec6ccb4.png)
 
-## WORK LINKS
-<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/blob/main/Ideation_Phase/Empathy_map/Empathy_canvas_map.pdf"> Empathy map</a>
-<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/tree/main/Ideation_Phase/Literature_survey"> Literature survey</a>
+## 🖇️WORK LINKS
+<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/blob/main/Ideation_Phase/Empathy_map/Empathy_canvas_map.pdf"> Empathy map</a> <br>
+<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/tree/main/Ideation_Phase/Literature_survey"> Literature survey</a> <br>
 <a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/tree/main/Assessments"> Assignmnet </a>
