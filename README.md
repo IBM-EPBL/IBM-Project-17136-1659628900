@@ -27,3 +27,5 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 
 ## WORK LINKS
 <a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/blob/main/Ideation_Phase/Empathy_map/Empathy_canvas_map.pdf"> Empathy map</a>
+<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/tree/main/Ideation_Phase/Literature_survey"> Literature survey</a>
+<a href="https://github.com/IBM-EPBL/IBM-Project-17136-1659628900/tree/main/Assessments"> Assignmnet </a>
