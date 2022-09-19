@@ -1,2 +1,1 @@
-# IBM COGNOS ANALYTICS WITH WATTSON 
-## Shriprasanna B --> ASSIGNMENT-1 (DATA EXPOLORATION) 
+## Shriprasanna B
