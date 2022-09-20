@@ -25,7 +25,4 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 ## 👨‍💻Technical Architecture:
 ![download](https://user-images.githubusercontent.com/92677078/190690057-16763bfc-b141-4e2a-a17f-97031ec6ccb4.png)
 
-## 🖇️WORK LINKS
-<a href="#"> Empathy map</a> <br>
-<a href="#"> Literature survey</a> <br>
-<a href="#"> Assignmnet </a>
+
