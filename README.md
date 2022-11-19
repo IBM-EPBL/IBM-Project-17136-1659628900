@@ -1,6 +1,9 @@
 <h1 align="center"> Check out our website here </h1>
-<a href="https://ibm-webpage-shrix1.vercel.app/"></a> 
-
+<a href="https://ibm-webpage-shrix1.vercel.app/">
+ 
+![Desktop - 1gg](https://user-images.githubusercontent.com/95226524/202835127-07bf0036-6c2d-4a5a-8208-ae2c02ff9536.png)
+ 
+</a>
 
 ![Web 1920 – 4](https://user-images.githubusercontent.com/92677078/190669952-389eafda-3a95-4005-9bf5-4fa1625a7300.png)
 
