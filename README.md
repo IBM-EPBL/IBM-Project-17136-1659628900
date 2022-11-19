@@ -1,4 +1,4 @@
-<h1 align="center"> Check out our website here </h1>
+
 <a href="https://ibm-webpage-shrix1.vercel.app/">
  
 ![Desktop - 1gg](https://user-images.githubusercontent.com/95226524/202835127-07bf0036-6c2d-4a5a-8208-ae2c02ff9536.png)
